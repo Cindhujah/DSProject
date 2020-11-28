@@ -1,2 +1,2 @@
 # DSProject
-Data Science projects
+Data Science project
